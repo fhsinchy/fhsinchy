@@ -9,6 +9,9 @@ I am Farhan Hasin Chowdhury from Bangladesh. Apart from being a software develop
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Rock Solid Express Application Architecture](https://farhan.info/rock-solid-express-application-architecture)
+- [Coming Up With Project Ideas (Naturally)](https://farhan.info/coming-up-with-project-ideas-naturally)
+- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://farhan.info/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-1)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://farhan.info)
