@@ -9,6 +9,7 @@ I am Farhan Hasin Chowdhury from Bangladesh. Apart from being a software develop
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Service Classes Explained](https://farhan.info/laravel-service-classes-explained)
 - [How To Configure NGINX With SSL and HTTP/2](https://farhan.info/how-to-configure-nginx-with-ssl-and-http2)
 - [Rock Solid Express Application Architecture](https://farhan.info/rock-solid-express-application-architecture)
 - [Coming Up With Project Ideas (Naturally)](https://farhan.info/coming-up-with-project-ideas-naturally)
