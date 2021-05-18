@@ -9,11 +9,11 @@ I am Farhan Hasin Chowdhury from Bangladesh. Apart from being a web/software dev
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Configure NGINX With SSL and HTTP/2](https://dev.to/fhsinchy/how-to-configure-nginx-with-ssl-and-http-2-83l)
-- [Laravel Service Classes Explained](https://dev.to/fhsinchy/laravel-service-classes-explained-3m7p)
-- [Rock Solid Express Application Architecture](https://dev.to/fhsinchy/rock-solid-express-application-architecture-4m6j)
-- [Coming Up With Project Ideas (Naturally)](https://dev.to/fhsinchy/coming-up-with-project-ideas-naturally-49b0)
-- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
+- [Laravel Service Classes Explained](https://farhan.info/laravel-service-classes-explained)
+- [How To Configure NGINX With SSL and HTTP/2](https://farhan.info/how-to-configure-nginx-with-ssl-and-http2)
+- [Rock Solid Express Application Architecture](https://farhan.info/rock-solid-express-application-architecture)
+- [Coming Up With Project Ideas (Naturally)](https://farhan.info/coming-up-with-project-ideas-naturally)
+- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://farhan.info/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-1)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://farhan.info/)
