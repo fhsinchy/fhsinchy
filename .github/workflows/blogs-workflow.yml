@@ -5,10 +5,10 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-hashnode-blog:
-    name: Update this repo's README with the latest hashnode blog posts
+    name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://farhan.info/rss.xml"
+          feed_list: "https://dev.to/feed/fhsinchy"
