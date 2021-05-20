@@ -13,11 +13,10 @@ Apart from the articles I write on [DEV Community](https://dev.to/fhsinchy/), I 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Service Classes Explained](https://blog.farhan.dev/laravel-service-classes-explained)
-- [How To Configure NGINX With SSL and HTTP/2](https://blog.farhan.dev/how-to-configure-nginx-with-ssl-and-http2)
-- [Rock Solid Express Application Architecture](https://blog.farhan.dev/rock-solid-express-application-architecture)
-- [Coming Up With Project Ideas (Naturally)](https://blog.farhan.dev/coming-up-with-project-ideas-naturally)
-- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://blog.farhan.dev/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-1)
+- [Laravel Service Classes Explained](https://dev.to/fhsinchy/laravel-service-classes-explained-3m7p)
+- [Rock Solid Express Application Architecture](https://dev.to/fhsinchy/rock-solid-express-application-architecture-4m6j)
+- [Coming Up With Project Ideas (Naturally)](https://dev.to/fhsinchy/coming-up-with-project-ideas-naturally-49b0)
+- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://blog.farhan.dev/)
