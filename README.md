@@ -1,8 +1,8 @@
 # Bonjour, mon ami! <img src="./assets/wave.gif" width="35px">
 
-Hi, I am Farhan Hasin Chowdhury. A young web/software developer from Bangladesh specializing in back-end programming. I have hands-on experience in languages like **PHP**, **JavaScript** and **Go**. I'm also confident in dev-ops related tools such as **Docker**, **Kubernetes** and **Podman**. In terms of database management systems, I have experience working with **MySQL** and **MongoDB** at medium to almost large scale.
+Hi, I am **Farhan Hasin Chowdhury**, a web/software developer and author from **Bangladesh**. I make open-source software and write free full-length handbooks to help out developers in their journey.
 
-I'm a huge fan of the open-source mindset and try to contribute to the community as much as I can. Some of my popular open-source project are on display below and you may have read one or two of my [handbooks](https://blog.farhan.dev/handbooks).
+I'm a huge fan of the open-source mindset and try to contribute to the community as much as I can. Some of my popular open-source projects are on display below and you may have read one or two of my [handbooks](https://blog.farhan.dev/handbooks).
 
 Apart from the articles I write on [DEV Community](https://dev.to/fhsinchy/), I publish full-length handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/author/farhanhasin/) every once in a while. These handbooks and articles are part of my mission to simplify hard to understand technologies for everyone. Each of these handbooks takes a lot of time and effort to write. Hence if you like my work, [buying me a coffee](https://www.buymeacoffee.com/farhanhasin) as a token of appreciation.
 
