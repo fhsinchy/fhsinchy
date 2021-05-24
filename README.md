@@ -13,6 +13,7 @@ Apart from the articles I write on [DEV Community](https://dev.to/fhsinchy/), I 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Service Container and Service Providers Explained](https://dev.to/fhsinchy/laravel-service-container-and-service-providers-explained-5a1)
 - [Laravel Service Classes Explained](https://dev.to/fhsinchy/laravel-service-classes-explained-3m7p)
 - [Rock Solid Express Application Architecture](https://dev.to/fhsinchy/rock-solid-express-application-architecture-4m6j)
 - [Coming Up With Project Ideas (Naturally)](https://dev.to/fhsinchy/coming-up-with-project-ideas-naturally-49b0)
