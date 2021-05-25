@@ -20,6 +20,6 @@ Apart from the articles I write on [DEV Community](https://dev.to/fhsinchy/), I 
 - [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://blog.farhan.dev/)
+▶ [...more blog articles](https://dev.to/fhsinchy/)
 
 <a href="https://www.buymeacoffee.com/fhsinchy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
