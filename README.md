@@ -1,6 +1,6 @@
 # Bonjour, mon ami! <img src="./assets/wave.gif" width="35px">
 
-Hi, I am **Farhan Hasin Chowdhury**, a web/software developer and author from **Bangladesh**. I make open-source software and write free full-length handbooks to help out developers in their journey.
+Hi, I am **Farhan Hasin Chowdhury**, a full-stack developer and author from **Bangladesh**. I make open-source software and write free full-length handbooks to help out developers in their journey.
 
 I'm a huge fan of the open-source mindset and try to contribute to the community as much as I can. Some of my popular open-source projects are on display below and you may have read one or two of my [handbooks](https://blog.farhan.dev/handbooks).
 
