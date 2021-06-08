@@ -20,4 +20,4 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 
 ▶ [...more blog articles](https://dev.to/fhsinchy/)
 
-<a href="https://www.buymeacoffee.com/fhsinchy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
+<a href="https://www.buymeacoffee.com/farhanhasin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
