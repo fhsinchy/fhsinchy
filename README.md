@@ -2,9 +2,7 @@
 
 Hi, I am **Farhan Hasin Chowdhury**, a full-stack developer and author from **Bangladesh**. I make open-source software and write free full-length handbooks to help out developers in their journey.
 
-I'm a huge fan of the open-source mindset and try to contribute to the community as much as I can. Some of my popular open-source projects are on display below and you may have read one or two of my [handbooks](https://blog.farhan.dev/handbooks).
-
-Apart from the articles I write on [DEV Community](https://dev.to/fhsinchy/), I publish full-length handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/author/farhanhasin/) every once in a while. These handbooks and articles are part of my mission to simplify hard to understand technologies for everyone. Each of these handbooks takes a lot of time and effort to write. Hence if you like my work, [buying me a coffee](https://www.buymeacoffee.com/farhanhasin) as a token of appreciation.
+Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/author/farhanhasin/), I write articles on [DEV Community](https://dev.to/fhsinchy/) every once in a while. These handbooks and articles are part of my mission to simplify hard to understand technologies for everyone. Each of these handbooks takes a lot of time and effort to write. Hence if you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/farhanhasin) as a token of appreciation.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/frhnhsin?label=my%20tiny%20twitter%20circle&style=for-the-badge) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/fhsinchy?label=i%27ve%20got%20some%20reddit%20karma&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/fhsinchy?label=poeple%20supporting%20me%20on%20github&style=for-the-badge)
 
