@@ -11,11 +11,11 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Search UI with Typesense](https://dev.to/fhsinchy/building-a-search-ui-with-typesense-1ki2)
 - [Laravel Service Container and Service Providers Explained](https://dev.to/fhsinchy/laravel-service-container-and-service-providers-explained-5a1)
 - [Laravel Service Classes Explained](https://dev.to/fhsinchy/laravel-service-classes-explained-3m7p)
 - [Rock Solid Express Application Architecture](https://dev.to/fhsinchy/rock-solid-express-application-architecture-4m6j)
 - [Coming Up With Project Ideas (Naturally)](https://dev.to/fhsinchy/coming-up-with-project-ideas-naturally-49b0)
-- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/fhsinchy/)
