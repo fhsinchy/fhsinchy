@@ -15,7 +15,7 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 - [Laravel Service Container and Service Providers Explained](https://dev.to/fhsinchy/laravel-service-container-and-service-providers-explained-5a1)
 - [Laravel Service Classes Explained](https://dev.to/fhsinchy/laravel-service-classes-explained-3m7p)
 - [Rock Solid Express Application Architecture](https://dev.to/fhsinchy/rock-solid-express-application-architecture-4m6j)
-- [Coming Up With Project Ideas (Naturally)](https://dev.to/fhsinchy/coming-up-with-project-ideas-naturally-49b0)
+- [Coming Up With Project Ideas &lpar;Naturally&rpar;](https://dev.to/fhsinchy/coming-up-with-project-ideas-naturally-49b0)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/fhsinchy/)
