@@ -18,6 +18,6 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 - [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](http://farhan.dev/tutorial/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://dev.to/fhsinchy/)
+▶ [...more blog articles](https://farhan.dev/)
 
 <a href="https://www.buymeacoffee.com/farhanhasin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
