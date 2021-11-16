@@ -11,11 +11,11 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Service Container and Service Providers Explained](http://farhan.dev/tutorial/laravel-service-container-and-service-providers-explained/)
-- [Laravel Service Classes Explained](http://farhan.dev/tutorial/laravel-service-classes-explained/)
-- [Rock Solid Express Application Architecture](http://farhan.dev/tutorial/rock-solid-express-application-architecture/)
-- [Coming Up With Project Ideas &lpar;Naturally&rpar;](http://farhan.dev/sideprojects/coming-up-with-project-ideas-naturally/)
-- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](http://farhan.dev/tutorial/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql/)
+- [Creating a Modern Application: Using Laravel With React.js](https://farhan.dev/tutorial/using-laravel-with-react-js/)
+- [Laravel Service Container and Service Providers Explained](https://farhan.dev/tutorial/laravel-service-container-and-service-providers-explained/)
+- [Laravel Service Classes Explained](https://farhan.dev/tutorial/laravel-service-classes-explained/)
+- [Rock Solid Express Application Architecture](https://farhan.dev/tutorial/rock-solid-express-application-architecture/)
+- [Coming Up With Project Ideas &lpar;Naturally&rpar;](https://farhan.dev/sideprojects/coming-up-with-project-ideas-naturally/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://farhan.dev/)
