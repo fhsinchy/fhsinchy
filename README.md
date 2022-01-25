@@ -11,7 +11,7 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-By-Step Guide to Deploying Laravel Applications on Virtual Private Servers](https://farhan.dev/tutorial/step-by-step-guide-to-deploying-laravel-applications-on-virtual-private-servers/)
+- [How To Boot Arch Linux in UEFI Mode on VirtualBox](https://farhan.dev/tutorial/how-to-boot-arch-linux-in-uefi-mode-on-virtualbox/)
 - [Laravel Service Container and Service Providers Explained](https://farhan.dev/tutorial/laravel-service-container-and-service-providers-explained/)
 - [Laravel Service Classes Explained](https://farhan.dev/tutorial/laravel-service-classes-explained/)
 - [Rock Solid Express Application Architecture](https://farhan.dev/tutorial/rock-solid-express-application-architecture/)
