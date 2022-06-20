@@ -1,4 +1,4 @@
-# Bonjour, mon ami! <img src="./assets/wave.gif" width="35px">
+# Bonjour, mon ami! <img src="./assets/wave.gif" width="35px" height="35px" alt="wave" />
 
 Hi, I am **Farhan Hasin Chowdhury**, a software developer from **Bangladesh** with a knack for learning new things and writing about them. I make open-source software and write free full-length handbooks to help out developers in their journey.
 
