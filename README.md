@@ -18,6 +18,6 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 - [How to Learn the C++ Programming Language](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://farhan.dev/)
+▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
 
 <a href="https://www.buymeacoffee.com/farhanhasin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
