@@ -11,11 +11,11 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Boot Arch Linux in UEFI Mode on VirtualBox](https://farhan.dev/tutorial/how-to-boot-arch-linux-in-uefi-mode-on-virtualbox/)
-- [Laravel Service Container and Service Providers Explained](https://farhan.dev/tutorial/laravel-service-container-and-service-providers-explained/)
-- [Laravel Service Classes Explained](https://farhan.dev/tutorial/laravel-service-classes-explained/)
-- [Rock Solid Express Application Architecture](https://farhan.dev/tutorial/rock-solid-express-application-architecture/)
-- [Coming Up With Project Ideas &lpar;Naturally&rpar;](https://farhan.dev/sideprojects/coming-up-with-project-ideas-naturally/)
+- [Python Print Without Newline [SOLVED]](https://www.freecodecamp.org/news/python-print-without-newline-solved/)
+- [The Python Code Example Handbook – Simple Python Program Examples for Beginners](https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/)
+- [Extern – C and C++ Extern Keyword Function Tutorial](https://www.freecodecamp.org/news/extern-keyword-function-tutorial/)
+- [Python IDE – Best IDEs and Editors for Python](https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/)
+- [How to Learn the C++ Programming Language](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://farhan.dev/)
