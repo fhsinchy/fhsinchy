@@ -11,11 +11,11 @@ Apart from the handbooks on [freeCodeCamp](https://www.freecodecamp.org/news/aut
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Arrays.binarySearch&lpar;&rpar; in Java](https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/)
 - [Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained](https://www.freecodecamp.org/news/programming-naming-conventions-explained/)
 - [Python Print Without Newline [SOLVED]](https://www.freecodecamp.org/news/python-print-without-newline-solved/)
 - [The Python Code Example Handbook – Simple Python Program Examples for Beginners](https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/)
 - [Extern – C and C++ Extern Keyword Function Tutorial](https://www.freecodecamp.org/news/extern-keyword-function-tutorial/)
-- [Python IDE – Best IDEs and Editors for Python](https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
