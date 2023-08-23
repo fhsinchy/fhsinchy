@@ -7,11 +7,11 @@ Hi, I am **Farhan Hasin Chowdhury**, a software developer from **Bangladesh** wi
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Python Code Example Handbook](https://www.freecodecamp.org/news/the-python-code-example-handbook/)
 - [How to Configure Visual Studio Code for Python Development](https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/)
 - [The Java Handbook – Learn Java Programming for Beginners](https://www.freecodecamp.org/news/the-java-handbook/)
 - [Java scanner.nextLine&lpar;&rpar; Method Call Gets Skipped Error [SOLVED]](https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/)
 - [How to Use Arrays.binarySearch&lpar;&rpar; in Java](https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/)
-- [Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained](https://www.freecodecamp.org/news/programming-naming-conventions-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
