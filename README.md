@@ -13,6 +13,6 @@ Hi, I am **Farhan Hasin Chowdhury**, a software developer from **Bangladesh** wi
 - [Laravel Service Classes Explained](https://farhan.dev/laravel/laravel-service-classes-explained/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
+▶ [...more blog articles](https://farhan.dev/)
 
 <a href="https://www.buymeacoffee.com/farhanhasin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
