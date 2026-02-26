@@ -12,6 +12,11 @@ Hi, I am **Farhan Hasin Chowdhury**, a software developer from **Bangladesh** wi
 - [Migrating from SQL to MongoDB](https://laravel-news.com/migrating-from-sql-to-mongodb)
 - [Optimizing MongoDB Queries in Java Applications](https://foojay.io/today/optimizing-mongodb-queries-in-java-applications/)
 - [PostgreSQL vs. MongoDB for Laravel: Choosing the Right Database](https://laravel-news.com/postgresql-vs-mongodb-for-laravel-choosing-the-right-database)
+- [MongoDB Transactions in Laravel](https://laravel-news.com/mongodb-transactions-in-laravel)
+- [Querying Data in MongoDB With Laravel: From Basics to Advanced Techniques](https://laravel-news.com/querying-data-in-mongodb-with-laravel)
+- [What Are Context Managers in Python?](https://www.freecodecamp.org/news/context-managers-in-python/)
+- [The Python Code Example Handbook](https://www.freecodecamp.org/news/the-python-code-example-handbook/)
+- [How to Configure Visual Studio Code for Python Development](https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
