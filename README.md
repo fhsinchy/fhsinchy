@@ -19,6 +19,6 @@ Hi, I am **Farhan Hasin Chowdhury**, a software developer from **Bangladesh** wi
 - [How to Configure Visual Studio Code for Python Development](https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
+▶ [...more blog articles](https://farhan.dev/articles/)
 
 <a href="https://www.buymeacoffee.com/farhanhasin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
