@@ -7,11 +7,11 @@ Hi, I am **Farhan Hasin Chowdhury**, a software developer from **Bangladesh** wi
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Context Managers in Python?](https://www.freecodecamp.org/news/context-managers-in-python/)
-- [The Python Code Example Handbook](https://www.freecodecamp.org/news/the-python-code-example-handbook/)
-- [How to Configure Visual Studio Code for Python Development](https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/)
-- [The Java Handbook – Learn Java Programming for Beginners](https://www.freecodecamp.org/news/the-java-handbook/)
-- [Java scanner.nextLine&lpar;&rpar; Method Call Gets Skipped Error [SOLVED]](https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/)
+- [Heroku logs: A complete guide for developers](https://www.honeybadger.io/blog/heroku-logs/)
+- [Handling Large Datasets with Pagination and Cursors in Laravel MongoDB](https://laravel-news.com/handling-large-datasets-with-pagination-and-cursors-in-laravel-mongodb)
+- [Migrating from SQL to MongoDB](https://laravel-news.com/migrating-from-sql-to-mongodb)
+- [Optimizing MongoDB Queries in Java Applications](https://foojay.io/today/optimizing-mongodb-queries-in-java-applications/)
+- [PostgreSQL vs. MongoDB for Laravel: Choosing the Right Database](https://laravel-news.com/postgresql-vs-mongodb-for-laravel-choosing-the-right-database)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://www.freecodecamp.org/news/author/farhanhasin/)
